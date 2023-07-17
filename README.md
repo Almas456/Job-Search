@@ -1,17 +1,3 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# Job Search
+The job search app is a mobile application designed to help individuals find employment opportunities quickly and efficiently. It provides a user-friendly platform where job seekers can search for job listings, create personalized profiles, and submit applications directly from their mobile devices. The app aggregates job postings from various sources, including company websites, job boards, and recruitment agencies, making it a comprehensive resource for job seekers. With advanced search filters, notifications for new job postings, and the ability to save favorite listings, the app streamlines the job search process and helps users stay organized and informed. Whether it's full-time, part-time, or freelance work, the job search app is a valuable tool for individuals looking to explore career opportunities and connect with potential employers.
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
-
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
